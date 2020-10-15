@@ -78,7 +78,7 @@
  WCH_civilian_influence_decrease_low_tt:0 "§ MЭто немного уменьшит влияние лоялистов.§!\n"
  WCH_civilian_influence_decrease_medium_tt:0 "§ MЭто уменьшит влияние лоялистов.§!\n"
  WCH_civilian_influence_decrease_high_tt:0 "§ MЭто заметно уменьшит влияние лоялистов.§!\n"
-	
+ 
  WCH_jap_relations_tt:0 "Мы больше §Rне будем§! прихвостнями японцев.\n"
  
  ### Decisions ###
